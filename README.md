@@ -4,10 +4,9 @@ Coded to support Python3
 
 ## Getting Started (Setup)
 
-- Install Python
-- Install Dependencies:
-
-`pip install -r requirements.txt`
+- Install Python - [pyenv](https://github.com/pyenv/pyenv) is recommended.
+  - If you're using pyenv, install via `pyenv install && pyenv rehash` in the root Git directory.
+- Install Dependencies: `pip install -r requirements.txt`
 
 - Define settings in config.ini
 
